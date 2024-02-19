@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/nhsos_sonth/AndroidStudioProjects/SyllabicKeyboard/app/src/main/res/drawable/custom_back_ground_black.xml" value="0.1785" />
+        <entry key="..\:/Users/nhsos_sonth/AndroidStudioProjects/SyllabicKeyboard/app/src/main/res/drawable/custom_back_ground_blue.xml" value="0.162" />
+        <entry key="..\:/Users/nhsos_sonth/AndroidStudioProjects/SyllabicKeyboard/app/src/main/res/drawable/custom_back_ground_green.xml" value="0.1785" />
+        <entry key="..\:/Users/nhsos_sonth/AndroidStudioProjects/SyllabicKeyboard/app/src/main/res/drawable/custom_back_ground_orange.xml" value="0.1785" />
+        <entry key="..\:/Users/nhsos_sonth/AndroidStudioProjects/SyllabicKeyboard/app/src/main/res/drawable/custom_back_ground_white.xml" value="0.162" />
+        <entry key="..\:/Users/nhsos_sonth/AndroidStudioProjects/SyllabicKeyboard/app/src/main/res/drawable/custom_back_ground_yellow.xml" value="0.162" />
+        <entry key="..\:/Users/nhsos_sonth/AndroidStudioProjects/SyllabicKeyboard/app/src/main/res/drawable/ic_back.xml" value="0.1785" />
+        <entry key="..\:/Users/nhsos_sonth/AndroidStudioProjects/SyllabicKeyboard/app/src/main/res/drawable/ic_img_dot.xml" value="0.1785" />
+        <entry key="..\:/Users/nhsos_sonth/AndroidStudioProjects/SyllabicKeyboard/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1785" />
+        <entry key="..\:/Users/nhsos_sonth/AndroidStudioProjects/SyllabicKeyboard/app/src/main/res/layout/activity_detail.xml" value="0.253125" />
+        <entry key="..\:/Users/nhsos_sonth/AndroidStudioProjects/SyllabicKeyboard/app/src/main/res/layout/activity_detail_two.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nhsos_sonth/AndroidStudioProjects/SyllabicKeyboard/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/nhsos_sonth/AndroidStudioProjects/SyllabicKeyboard/app/src/main/res/layout/input.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/nhsos_sonth/AndroidStudioProjects/SyllabicKeyboard/app/src/main/res/xml/four_qwerty.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nhsos_sonth/AndroidStudioProjects/SyllabicKeyboard/app/src/main/res/xml/four_qwerty_select_one_dot.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nhsos_sonth/AndroidStudioProjects/SyllabicKeyboard/app/src/main/res/xml/ime_preferences.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/nhsos_sonth/AndroidStudioProjects/SyllabicKeyboard/app/src/main/res/xml/key_preview.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nhsos_sonth/AndroidStudioProjects/SyllabicKeyboard/app/src/main/res/xml/keyboard_popup.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nhsos_sonth/AndroidStudioProjects/SyllabicKeyboard/app/src/main/res/xml/one_emoji.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nhsos_sonth/AndroidStudioProjects/SyllabicKeyboard/app/src/main/res/xml/one_select_two_dot.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nhsos_sonth/AndroidStudioProjects/SyllabicKeyboard/app/src/main/res/xml/qwerty_number.xml" value="0.20697463768115942" />
+        <entry key="..\:/Users/nhsos_sonth/AndroidStudioProjects/SyllabicKeyboard/app/src/main/res/xml/qwerty_number_one.xml" value="0.20697463768115942" />
+        <entry key="..\:/Users/nhsos_sonth/AndroidStudioProjects/SyllabicKeyboard/app/src/main/res/xml/qwerty_number_three.xml" value="0.20697463768115942" />
+        <entry key="..\:/Users/nhsos_sonth/AndroidStudioProjects/SyllabicKeyboard/app/src/main/res/xml/select_two_dot.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nhsos_sonth/AndroidStudioProjects/SyllabicKeyboard/app/src/main/res/xml/three_qwerty.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nhsos_sonth/AndroidStudioProjects/SyllabicKeyboard/app/src/main/res/xml/three_select_one_dot.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nhsos_sonth/AndroidStudioProjects/SyllabicKeyboard/app/src/main/res/xml/two_qwerty.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nhsos_sonth/AndroidStudioProjects/SyllabicKeyboard/app/src/main/res/xml/two_select_one_dot.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nhsos_sonth/AppData/Local/Android/Sdk/platforms/android-32/data/res/drawable/list_selector_background.xml" value="0.1285" />
+        <entry key="..\:/Users/nhsos_sonth/AppData/Local/Android/Sdk/platforms/android-32/data/res/drawable/list_selector_background_transition.xml" value="0.1285" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.264" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="11.1%p"
+    android:keyHeight="@dimen/key_height"
+    >
+
+    <Row>
+        <Key android:codes="4000" android:keyLabel="▼"
+            android:keyEdgeFlags="left"/>
+        <Key android:codes="119"  android:keyLabel="ᐊ" android:keyOutputText = "ᐊ" />
+        <Key android:codes="101"  android:keyLabel="ᐸ" android:keyOutputText = "ᐸ"/>
+        <Key android:codes="114" android:keyLabel="ᑕ" android:keyOutputText = "ᑕ"/>
+        <Key android:codes="116" android:keyLabel="ᑲ" android:keyOutputText = "ᑲ"/>
+        <Key android:codes="121" android:keyLabel="ᒐ" android:keyOutputText = "ᒐ"/>
+        <Key android:codes="117" android:keyLabel="ᒪ" android:keyOutputText = "ᒪ"/>
+        <Key android:codes="111"  android:keyLabel="ᓇ" android:keyOutputText = "ᓇ"/>
+        <Key android:codes="-40" android:keyLabel="•"
+            android:keyEdgeFlags="right"/>
+    </Row>
+
+    <Row>
+
+        <Key android:codes="97"  android:keyLabel="▲"  android:keyEdgeFlags="left"/>
+        <Key android:codes="115" android:keyLabel="ᓴ" android:keyOutputText = "ᓴ"/>
+        <Key android:codes="100" android:keyLabel="ᓚ" android:keyOutputText = "ᓚ"/>
+        <Key android:codes="102" android:keyLabel="ᔭ" android:keyOutputText = "ᔭ"/>
+        <Key android:codes="103" android:keyLabel="ᕙ" android:keyOutputText = "ᕙ"/>
+        <Key android:codes="104" android:keyLabel="ᕋ" android:keyOutputText = "ᕋ"/>
+        <Key android:codes="106" android:keyLabel="ᖃ" android:keyOutputText = "ᖃ"/>
+        <Key android:codes="107" android:keyLabel="ᖓ" android:keyOutputText = "ᖓ"/>
+        <Key android:codes="-41" android:keyLabel="••"  android:keyEdgeFlags="right"/>
+    </Row>
+
+    <Row>
+        <Key android:codes="-1" android:keyIcon="@drawable/right_triangle"
+            android:isModifier="true"
+            android:isSticky="true" android:keyEdgeFlags="left"/>
+        <Key android:codes="122" android:keyLabel="." android:keyOutputText = "."/>
+        <Key android:codes="120" android:keyLabel="," android:keyOutputText = ","/>
+        <Key android:codes="99" android:keyLabel="\?" android:keyOutputText = "\?"/>
+        <Key android:codes="118" android:keyLabel="ᖠ" android:keyOutputText = "ᖠ"/>
+        <Key android:codes="98" android:keyLabel="ᖢ" android:keyOutputText = "ᖢ"/>
+        <Key android:codes="110" android:keyLabel="ᖤ" android:keyOutputText = "ᖤ"/>
+
+        <Key android:codes="-5" android:keyIcon="@drawable/ic_keyboard_backspace"
+            android:keyWidth="22.2%p" android:keyEdgeFlags="right"
+            android:isRepeatable="true"/>
+    </Row>
+
+    <Row android:rowEdgeFlags="bottom">
+        <Key android:codes="-3"
+            android:keyEdgeFlags="left"/>
+        <Key android:codes="-2" android:keyLabel="1" />
+        <Key android:codes="32" android:keyLabel="ᐅᖓᓯᓪᓕᑎᖅ"
+            android:keyWidth="55.5%p" android:isRepeatable="true"/>
+
+        <Key android:codes="10"
+            android:keyLabel="ᐊᑌ"
+            android:keyWidth="22.2%p" android:keyEdgeFlags="right"/>
+    </Row>
+</Keyboard>
+

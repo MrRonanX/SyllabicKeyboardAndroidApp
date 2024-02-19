@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_app">#000000</color>
+    <color name="background_keyboard">#2B2B2C</color>
+    <color name="background_green">#84b74e</color>
+    <color name="background_blue">#2a8ca7</color>
+    <color name="background_yellow">#efcc41</color>
+    <color name="background_orange">#d36b37</color>
+    <color name="background_text_change">#FFFFFF</color>
+    <color name="text_color_app">#FFFFFF</color>
+    <color name="text_click_set_language">#000000</color>
+    <color name="background_button_space">#6A6A6A</color>
+    <color name="text_color_special">#FFFFFF</color>
+
+</resources>
